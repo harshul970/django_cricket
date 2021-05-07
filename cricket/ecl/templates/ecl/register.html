@@ -1,0 +1,43 @@
+{% extends 'ecl/base2.html' %}
+{% block body %}
+
+<div class="container">
+<br/>
+<div class="jumbotron">
+<h3>Register yourself!</h3>
+    <br>
+    {% if errors %}
+    <div class="alert alert-danger">
+        <p> Details you have entered have following issues :<br>
+        {% for i in errors %}
+            <strong>{{i}}</strong><br>
+        {% endfor %}
+        </p>
+    </div>
+    {% endif %}
+<form method="POST" action= "{%url 'register_success' %}">
+    {% csrf_token %}
+    <label>{{form.first_name.label}}</label>
+    {{form.first_name}}
+    <br>
+    <label>{{form.last_name.label}}</label>
+    {{form.last_name}}
+    <br>
+    <label>{{form.username.label}}</label>
+    {{form.username}}
+    <br>
+    <label>{{form.email.label}}</label>
+    {{form.email}}
+    <br>
+    <label>{{form.password1.label}}</label>
+    {{form.password1}}
+    <br>
+    <label>{{form.password2.label}}</label>
+    {{form.password2}}
+<br><br>
+<input type="submit" class="btn btn-dark" name="create_user" value="Create User">
+</form>
+</div>
+</div>
+
+{% endblock %}

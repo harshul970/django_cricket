@@ -1,0 +1,32 @@
+{% extends 'ecl/base.html' %}
+{% block body %}
+<div class="container">
+        <div class="jumbotron jumbotron-fluid">
+            {% if alert_msg %}
+                {% if alert_type == 2 %}
+                    <div class="alert alert-info">
+                        <strong>{{alert_msg}}</strong>
+                    </div>
+                {% elif alert_type == 3 %}
+                    <div class="alert alert-warning">
+                        <strong>{{alert_msg}}</strong>
+                    </div>
+                {% elif alert_type == 4%}
+                    <div>
+                        <p>You have successfully joined {{alert_msg.0}} league. Please click on <a href="{%url 'single_league_view' alert_msg.1 %}">this</a> link to view all matches of this league.</p>
+                    </div>
+                {% endif %}
+            {% endif %}
+            <div class="container" align="center">
+                <p>You can join a league by entering league code below.</p>
+                <form action="{% url 'join_match_processing' %}" method="POST">
+                    {% csrf_token %}
+                    <label>League Code : </label>
+                    <input type="text" name="league_code" placeholder="Enter League Code">
+                    <button type="submit" class="btn btn-dark" name="join_match">Join Match</button>
+                </form>
+            </div>
+        </div>
+</div>
+
+{% endblock %}

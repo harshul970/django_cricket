@@ -1,0 +1,26 @@
+{% extends 'ecl/base2.html' %}
+{% block body %}
+
+<div class="container">
+    <br/>
+    <br/>
+    <div class="jumbotron jumbotron-fluid">
+        <div class="container" align="center">
+            <p><b>Welcome to Electronic Cricket League, registered users please login</b></p>
+            <span class="border">
+                <form action="{%url 'login_auth' %}" method="POST">
+                    {% csrf_token %}
+                    <label>User Name : </label>
+                    <input type="text" name="username" placeholder="Enter username" >
+                    <br/>
+                    <label>Password : </label> &nbsp;
+                    <input type="password" name="password" placeholder="Enter password" >
+                    <br/><br/>
+                    <button type="submit" class="btn btn-dark" name="login_user">Login</button>
+                </form>
+            </span>
+        </div>
+    </div>
+</div>
+
+{% endblock %}
