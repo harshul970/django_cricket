@@ -1,0 +1,92 @@
+{% extends 'ecl/base.html' %}
+{% load static %}
+{% block body %}
+<div class="container">
+	<div class="jumbotron jumbotron-fluid">
+		{% if alert_msg %}
+			<div class="alert alert-success">
+				<strong>{{alert_msg}}</strong>
+			</div>
+		{% endif %}
+		<br>
+		{% for i in all_data %}
+			<h3>{{i.league_name}}</h3>
+			<br>
+		{% for j in i.list_matches %}
+
+			<h4>{{j.0}}, {{j.1}} IST</h4>
+			{% if j.10 == 0 %}
+			<form action="{%url 'match_submitted' %}" method="POST" class="was-validated">
+				{% csrf_token %}
+
+				<div class="form-check-inline">
+					<label class="form-check-label" for="team1">
+						{% if j.7 == j.4 %}
+						<input type="radio" class="form-check-input" id="{{j.4}}" name="optradio" value="{{j.4}}" checked>
+						{% else %}
+						<input type="radio" class="form-check-input" id="{{j.4}}" name="optradio" value="{{j.4}}" required>
+						{% endif %}
+						{{j.2}}
+					</label>
+				</div>
+				<div class="form-check-inline">
+					  <label class="form-check-label" for="team2">
+
+						{% if j.7 == j.5 %}
+						<input type="radio" class="form-check-input" id="{{j.5}}" name="optradio" value="{{j.5}}" checked>
+						{% else %}
+						<input type="radio" class="form-check-input" id="{{j.5}}" name="optradio" value="{{j.5}}" required>
+						{% endif %}
+					  {{j.3}}
+					  </label>
+				</div>
+
+				<button type="submit" name="{{j.6}}" class="btn btn-dark btn-sm" value="{{j.6}}">My Choice</button>
+				&ensp;<label><small><i>**Please select your choice before {{j.8}}, {{j.9}} IST</i></small></label>
+			</form>
+			{% elif j.10 == 1 or j.10 == 2 or j.10 == 3 %}
+			<div class="container">
+					<label>
+						{% if j.4 == j.7 %}
+						<img src="{% static 'ecl/images/hand_touch_2.png' %}" alt="logo.png" style="width:22px;"
+							 title="Your Choice">
+						{% endif %}
+						&nbsp;
+						{% if j.10 == 3 and j.4 == j.11 %}
+							<kbd>{{j.2}}</kbd>
+						{% else %}
+							{{j.2}}
+						{% endif %}
+					</label>
+						&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+					<label>
+						{% if j.5 == j.7 %}
+						<img src="{% static 'ecl/images/hand_touch_2.png' %}" alt="logo.png" style="width:22px;"
+							 title="Your Choice">
+						{% endif %}
+						&nbsp;
+						{% if j.10 == 3 and j.5 == j.11 %}
+							<kbd>{{j.3}}</kbd>
+						{% else %}
+							{{j.3}}
+						{% endif %}
+					</label>
+						&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+					<label>
+						{% if j.10 == 3 and j.7 == j.11 %}
+						<img src="{% static 'ecl/images/thumbs_up_1.png' %}" alt="logo.png" style="width:22px;">
+						<b>You Won</b>
+						{% elif j.10 == 3 and j.7 != j.11 %}
+						<img src="{% static 'ecl/images/thumbs_down_1.png' %}" alt="logo.png" style="width:22px;">
+						<b>You Lose</b>
+						{% endif %}
+					</label>
+			</div>
+			{%endif%}
+			<br>
+		{% endfor %}
+			<hr/><br>
+		{% endfor %}
+	</div>
+</div>
+{% endblock %}

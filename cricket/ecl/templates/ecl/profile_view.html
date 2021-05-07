@@ -1,0 +1,16 @@
+{% extends 'ecl/base.html' %}
+{% block body %}
+<div class="container">
+    <br>
+    <div class="jumbotron jumbotron-fluid">
+        <br>
+        <h3>My Details</h3>
+        <br>
+        <div class="row">
+            <div class="col-sm-3" >Name</div> <div class="col-sm-9" >{{user_details.full_name}}</div>
+            <div class="col-sm-3" >User Name</div> <div class="col-sm-9" >{{user_details.user_name}}</div>
+            <div class="col-sm-3" >Email Address</div> <div class="col-sm-9" >{{user_details.email_id}}</div>
+        </div>
+    </div>
+</div>
+{% endblock %}

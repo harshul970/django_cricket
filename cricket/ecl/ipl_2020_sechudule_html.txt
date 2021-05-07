@@ -1,0 +1,1772 @@
+<div class="js-list">
+
+                                <h3 class="match-list__date js-date">Monday, 5th October 2020</h3>
+
+    <div class="js-match match-list__item fixture  RCBDC" data-match-id="22254" data-timestamp="2020-10-05T18:00:00+0400" data-team-ids="9,3" data-venue-id="37" data-tournament-id="18790" data-venue-lat="" data-venue-lng="">
+
+        <div class="fixture__team-logos">
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x RCB"></div>
+</div>
+            <div class="fixture__versus">v</div>
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x DC"></div>
+</div>
+        </div>
+
+        <div class="fixture__teams">
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo RCB"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-RCB RCB"></div>
+    <p class="fixture__team-name">Royal Challengers Bangalore</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">RCB</p>
+</div>
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo DC"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-DC DC"></div>
+    <p class="fixture__team-name">Delhi Capitals</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">DC</p>
+</div>
+        </div>
+
+        <div class="fixture__info">
+            
+
+            <strong class="fixture__time">19:30 IST (14:00 GMT), 18:00 LOCAL</strong>
+            <span><span class="fixture__description">Match 19</span> Dubai International Cricket Stadium, Dubai</span>
+        </div>
+
+        <div class="fixture__weather fixture-weather">
+            <div class="fixture-weather__button fixture-weather__button--empty"></div>
+        </div>
+
+        <div class="fixture__links">
+            <ul class="inline-list fixture__btn-list">
+                    <li class="u-margin u-no-margin-phablet"><div class="fixture__button fixture__button--tickets btn btn--inactive is-inactive">Tickets</div></li>
+
+                <li class="u-margin u-no-margin-phablet">
+                    <a class="fixture__button fixture__button--mc btn" href="/match/2020/19">Match Centre</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+                                <h3 class="match-list__date js-date">Tuesday, 6th October 2020</h3>
+
+    <div class="js-match match-list__item fixture  MIRR" data-match-id="22255" data-timestamp="2020-10-06T18:00:00+0400" data-team-ids="6,8" data-venue-id="102" data-tournament-id="18790" data-venue-lat="" data-venue-lng="">
+
+        <div class="fixture__team-logos">
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x MI"></div>
+</div>
+            <div class="fixture__versus">v</div>
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x RR"></div>
+</div>
+        </div>
+
+        <div class="fixture__teams">
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo MI"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-MI MI"></div>
+    <p class="fixture__team-name">Mumbai Indians</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">MI</p>
+</div>
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo RR"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-RR RR"></div>
+    <p class="fixture__team-name">Rajasthan Royals</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">RR</p>
+</div>
+        </div>
+
+        <div class="fixture__info">
+            
+
+            <strong class="fixture__time">19:30 IST (14:00 GMT), 18:00 LOCAL</strong>
+            <span><span class="fixture__description">Match 20</span> Sheikh Zayed Stadium, Abu Dhabi</span>
+        </div>
+
+        <div class="fixture__weather fixture-weather">
+            <div class="fixture-weather__button fixture-weather__button--empty"></div>
+        </div>
+
+        <div class="fixture__links">
+            <ul class="inline-list fixture__btn-list">
+                    <li class="u-margin u-no-margin-phablet"><div class="fixture__button fixture__button--tickets btn btn--inactive is-inactive">Tickets</div></li>
+
+                <li class="u-margin u-no-margin-phablet">
+                    <a class="fixture__button fixture__button--mc btn" href="/match/2020/20">Match Centre</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+                                <h3 class="match-list__date js-date">Wednesday, 7th October 2020</h3>
+
+    <div class="js-match match-list__item fixture  KKRCSK" data-match-id="22256" data-timestamp="2020-10-07T18:00:00+0400" data-team-ids="5,1" data-venue-id="102" data-tournament-id="18790" data-venue-lat="" data-venue-lng="">
+
+        <div class="fixture__team-logos">
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x KKR"></div>
+</div>
+            <div class="fixture__versus">v</div>
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x CSK"></div>
+</div>
+        </div>
+
+        <div class="fixture__teams">
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo KKR"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-KKR KKR"></div>
+    <p class="fixture__team-name">Kolkata Knight Riders</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">KKR</p>
+</div>
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo CSK"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-CSK CSK"></div>
+    <p class="fixture__team-name">Chennai Super Kings</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">CSK</p>
+</div>
+        </div>
+
+        <div class="fixture__info">
+            
+
+            <strong class="fixture__time">19:30 IST (14:00 GMT), 18:00 LOCAL</strong>
+            <span><span class="fixture__description">Match 21</span> Sheikh Zayed Stadium, Abu Dhabi</span>
+        </div>
+
+        <div class="fixture__weather fixture-weather">
+            <div class="fixture-weather__button fixture-weather__button--empty"></div>
+        </div>
+
+        <div class="fixture__links">
+            <ul class="inline-list fixture__btn-list">
+                    <li class="u-margin u-no-margin-phablet"><div class="fixture__button fixture__button--tickets btn btn--inactive is-inactive">Tickets</div></li>
+
+                <li class="u-margin u-no-margin-phablet">
+                    <a class="fixture__button fixture__button--mc btn" href="/match/2020/21">Match Centre</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+                                <h3 class="match-list__date js-date">Thursday, 8th October 2020</h3>
+
+    <div class="js-match match-list__item fixture  SRHKXIP" data-match-id="22257" data-timestamp="2020-10-08T18:00:00+0400" data-team-ids="62,4" data-venue-id="37" data-tournament-id="18790" data-venue-lat="" data-venue-lng="">
+
+        <div class="fixture__team-logos">
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x SRH"></div>
+</div>
+            <div class="fixture__versus">v</div>
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x KXIP"></div>
+</div>
+        </div>
+
+        <div class="fixture__teams">
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo SRH"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-SRH SRH"></div>
+    <p class="fixture__team-name">Sunrisers Hyderabad</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">SRH</p>
+</div>
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo KXIP"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-KXIP KXIP"></div>
+    <p class="fixture__team-name">Kings XI Punjab</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">KXIP</p>
+</div>
+        </div>
+
+        <div class="fixture__info">
+            
+
+            <strong class="fixture__time">19:30 IST (14:00 GMT), 18:00 LOCAL</strong>
+            <span><span class="fixture__description">Match 22</span> Dubai International Cricket Stadium, Dubai</span>
+        </div>
+
+        <div class="fixture__weather fixture-weather">
+            <div class="fixture-weather__button fixture-weather__button--empty"></div>
+        </div>
+
+        <div class="fixture__links">
+            <ul class="inline-list fixture__btn-list">
+                    <li class="u-margin u-no-margin-phablet"><div class="fixture__button fixture__button--tickets btn btn--inactive is-inactive">Tickets</div></li>
+
+                <li class="u-margin u-no-margin-phablet">
+                    <a class="fixture__button fixture__button--mc btn" href="/match/2020/22">Match Centre</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+                                <h3 class="match-list__date js-date">Friday, 9th October 2020</h3>
+
+    <div class="js-match match-list__item fixture  RRDC" data-match-id="22258" data-timestamp="2020-10-09T18:00:00+0400" data-team-ids="8,3" data-venue-id="104" data-tournament-id="18790" data-venue-lat="" data-venue-lng="">
+
+        <div class="fixture__team-logos">
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x RR"></div>
+</div>
+            <div class="fixture__versus">v</div>
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x DC"></div>
+</div>
+        </div>
+
+        <div class="fixture__teams">
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo RR"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-RR RR"></div>
+    <p class="fixture__team-name">Rajasthan Royals</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">RR</p>
+</div>
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo DC"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-DC DC"></div>
+    <p class="fixture__team-name">Delhi Capitals</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">DC</p>
+</div>
+        </div>
+
+        <div class="fixture__info">
+            
+
+            <strong class="fixture__time">19:30 IST (14:00 GMT), 18:00 LOCAL</strong>
+            <span><span class="fixture__description">Match 23</span> Sharjah Cricket Stadium, Sharjah</span>
+        </div>
+
+        <div class="fixture__weather fixture-weather">
+            <div class="fixture-weather__button fixture-weather__button--empty"></div>
+        </div>
+
+        <div class="fixture__links">
+            <ul class="inline-list fixture__btn-list">
+                    <li class="u-margin u-no-margin-phablet"><div class="fixture__button fixture__button--tickets btn btn--inactive is-inactive">Tickets</div></li>
+
+                <li class="u-margin u-no-margin-phablet">
+                    <a class="fixture__button fixture__button--mc btn" href="/match/2020/23">Match Centre</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+                                <h3 class="match-list__date js-date">Saturday, 10th October 2020</h3>
+
+    <div class="js-match match-list__item fixture  KXIPKKR" data-match-id="22259" data-timestamp="2020-10-10T14:00:00+0400" data-team-ids="4,5" data-venue-id="102" data-tournament-id="18790" data-venue-lat="" data-venue-lng="">
+
+        <div class="fixture__team-logos">
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x KXIP"></div>
+</div>
+            <div class="fixture__versus">v</div>
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x KKR"></div>
+</div>
+        </div>
+
+        <div class="fixture__teams">
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo KXIP"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-KXIP KXIP"></div>
+    <p class="fixture__team-name">Kings XI Punjab</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">KXIP</p>
+</div>
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo KKR"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-KKR KKR"></div>
+    <p class="fixture__team-name">Kolkata Knight Riders</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">KKR</p>
+</div>
+        </div>
+
+        <div class="fixture__info">
+            
+
+            <strong class="fixture__time">15:30 IST (10:00 GMT), 14:00 LOCAL</strong>
+            <span><span class="fixture__description">Match 24</span> Sheikh Zayed Stadium, Abu Dhabi</span>
+        </div>
+
+        <div class="fixture__weather fixture-weather">
+            <div class="fixture-weather__button fixture-weather__button--empty"></div>
+        </div>
+
+        <div class="fixture__links">
+            <ul class="inline-list fixture__btn-list">
+                    <li class="u-margin u-no-margin-phablet"><div class="fixture__button fixture__button--tickets btn btn--inactive is-inactive">Tickets</div></li>
+
+                <li class="u-margin u-no-margin-phablet">
+                    <a class="fixture__button fixture__button--mc btn" href="/match/2020/24">Match Centre</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="js-match match-list__item fixture  CSKRCB" data-match-id="22260" data-timestamp="2020-10-10T18:00:00+0400" data-team-ids="1,9" data-venue-id="37" data-tournament-id="18790" data-venue-lat="" data-venue-lng="">
+
+        <div class="fixture__team-logos">
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x CSK"></div>
+</div>
+            <div class="fixture__versus">v</div>
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x RCB"></div>
+</div>
+        </div>
+
+        <div class="fixture__teams">
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo CSK"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-CSK CSK"></div>
+    <p class="fixture__team-name">Chennai Super Kings</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">CSK</p>
+</div>
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo RCB"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-RCB RCB"></div>
+    <p class="fixture__team-name">Royal Challengers Bangalore</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">RCB</p>
+</div>
+        </div>
+
+        <div class="fixture__info">
+            
+
+            <strong class="fixture__time">19:30 IST (14:00 GMT), 18:00 LOCAL</strong>
+            <span><span class="fixture__description">Match 25</span> Dubai International Cricket Stadium, Dubai</span>
+        </div>
+
+        <div class="fixture__weather fixture-weather">
+            <div class="fixture-weather__button fixture-weather__button--empty"></div>
+        </div>
+
+        <div class="fixture__links">
+            <ul class="inline-list fixture__btn-list">
+                    <li class="u-margin u-no-margin-phablet"><div class="fixture__button fixture__button--tickets btn btn--inactive is-inactive">Tickets</div></li>
+
+                <li class="u-margin u-no-margin-phablet">
+                    <a class="fixture__button fixture__button--mc btn" href="/match/2020/25">Match Centre</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+                                <h3 class="match-list__date js-date">Sunday, 11th October 2020</h3>
+
+    <div class="js-match match-list__item fixture  SRHRR" data-match-id="22261" data-timestamp="2020-10-11T14:00:00+0400" data-team-ids="62,8" data-venue-id="37" data-tournament-id="18790" data-venue-lat="" data-venue-lng="">
+
+        <div class="fixture__team-logos">
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x SRH"></div>
+</div>
+            <div class="fixture__versus">v</div>
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x RR"></div>
+</div>
+        </div>
+
+        <div class="fixture__teams">
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo SRH"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-SRH SRH"></div>
+    <p class="fixture__team-name">Sunrisers Hyderabad</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">SRH</p>
+</div>
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo RR"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-RR RR"></div>
+    <p class="fixture__team-name">Rajasthan Royals</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">RR</p>
+</div>
+        </div>
+
+        <div class="fixture__info">
+            
+
+            <strong class="fixture__time">15:30 IST (10:00 GMT), 14:00 LOCAL</strong>
+            <span><span class="fixture__description">Match 26</span> Dubai International Cricket Stadium, Dubai</span>
+        </div>
+
+        <div class="fixture__weather fixture-weather">
+            <div class="fixture-weather__button fixture-weather__button--empty"></div>
+        </div>
+
+        <div class="fixture__links">
+            <ul class="inline-list fixture__btn-list">
+                    <li class="u-margin u-no-margin-phablet"><div class="fixture__button fixture__button--tickets btn btn--inactive is-inactive">Tickets</div></li>
+
+                <li class="u-margin u-no-margin-phablet">
+                    <a class="fixture__button fixture__button--mc btn" href="/match/2020/26">Match Centre</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="js-match match-list__item fixture  MIDC" data-match-id="22262" data-timestamp="2020-10-11T18:00:00+0400" data-team-ids="6,3" data-venue-id="102" data-tournament-id="18790" data-venue-lat="" data-venue-lng="">
+
+        <div class="fixture__team-logos">
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x MI"></div>
+</div>
+            <div class="fixture__versus">v</div>
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x DC"></div>
+</div>
+        </div>
+
+        <div class="fixture__teams">
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo MI"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-MI MI"></div>
+    <p class="fixture__team-name">Mumbai Indians</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">MI</p>
+</div>
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo DC"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-DC DC"></div>
+    <p class="fixture__team-name">Delhi Capitals</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">DC</p>
+</div>
+        </div>
+
+        <div class="fixture__info">
+            
+
+            <strong class="fixture__time">19:30 IST (14:00 GMT), 18:00 LOCAL</strong>
+            <span><span class="fixture__description">Match 27</span> Sheikh Zayed Stadium, Abu Dhabi</span>
+        </div>
+
+        <div class="fixture__weather fixture-weather">
+            <div class="fixture-weather__button fixture-weather__button--empty"></div>
+        </div>
+
+        <div class="fixture__links">
+            <ul class="inline-list fixture__btn-list">
+                    <li class="u-margin u-no-margin-phablet"><div class="fixture__button fixture__button--tickets btn btn--inactive is-inactive">Tickets</div></li>
+
+                <li class="u-margin u-no-margin-phablet">
+                    <a class="fixture__button fixture__button--mc btn" href="/match/2020/27">Match Centre</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+                                <h3 class="match-list__date js-date">Monday, 12th October 2020</h3>
+
+    <div class="js-match match-list__item fixture  RCBKKR" data-match-id="22263" data-timestamp="2020-10-12T18:00:00+0400" data-team-ids="9,5" data-venue-id="104" data-tournament-id="18790" data-venue-lat="" data-venue-lng="">
+
+        <div class="fixture__team-logos">
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x RCB"></div>
+</div>
+            <div class="fixture__versus">v</div>
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x KKR"></div>
+</div>
+        </div>
+
+        <div class="fixture__teams">
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo RCB"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-RCB RCB"></div>
+    <p class="fixture__team-name">Royal Challengers Bangalore</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">RCB</p>
+</div>
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo KKR"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-KKR KKR"></div>
+    <p class="fixture__team-name">Kolkata Knight Riders</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">KKR</p>
+</div>
+        </div>
+
+        <div class="fixture__info">
+            
+
+            <strong class="fixture__time">19:30 IST (14:00 GMT), 18:00 LOCAL</strong>
+            <span><span class="fixture__description">Match 28</span> Sharjah Cricket Stadium, Sharjah</span>
+        </div>
+
+        <div class="fixture__weather fixture-weather">
+            <div class="fixture-weather__button fixture-weather__button--empty"></div>
+        </div>
+
+        <div class="fixture__links">
+            <ul class="inline-list fixture__btn-list">
+                    <li class="u-margin u-no-margin-phablet"><div class="fixture__button fixture__button--tickets btn btn--inactive is-inactive">Tickets</div></li>
+
+                <li class="u-margin u-no-margin-phablet">
+                    <a class="fixture__button fixture__button--mc btn" href="/match/2020/28">Match Centre</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+                                <h3 class="match-list__date js-date">Tuesday, 13th October 2020</h3>
+
+    <div class="js-match match-list__item fixture  SRHCSK" data-match-id="22264" data-timestamp="2020-10-13T18:00:00+0400" data-team-ids="62,1" data-venue-id="37" data-tournament-id="18790" data-venue-lat="" data-venue-lng="">
+
+        <div class="fixture__team-logos">
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x SRH"></div>
+</div>
+            <div class="fixture__versus">v</div>
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x CSK"></div>
+</div>
+        </div>
+
+        <div class="fixture__teams">
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo SRH"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-SRH SRH"></div>
+    <p class="fixture__team-name">Sunrisers Hyderabad</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">SRH</p>
+</div>
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo CSK"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-CSK CSK"></div>
+    <p class="fixture__team-name">Chennai Super Kings</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">CSK</p>
+</div>
+        </div>
+
+        <div class="fixture__info">
+            
+
+            <strong class="fixture__time">19:30 IST (14:00 GMT), 18:00 LOCAL</strong>
+            <span><span class="fixture__description">Match 29</span> Dubai International Cricket Stadium, Dubai</span>
+        </div>
+
+        <div class="fixture__weather fixture-weather">
+            <div class="fixture-weather__button fixture-weather__button--empty"></div>
+        </div>
+
+        <div class="fixture__links">
+            <ul class="inline-list fixture__btn-list">
+                    <li class="u-margin u-no-margin-phablet"><div class="fixture__button fixture__button--tickets btn btn--inactive is-inactive">Tickets</div></li>
+
+                <li class="u-margin u-no-margin-phablet">
+                    <a class="fixture__button fixture__button--mc btn" href="/match/2020/29">Match Centre</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+                                <h3 class="match-list__date js-date">Wednesday, 14th October 2020</h3>
+
+    <div class="js-match match-list__item fixture  DCRR" data-match-id="22265" data-timestamp="2020-10-14T18:00:00+0400" data-team-ids="3,8" data-venue-id="37" data-tournament-id="18790" data-venue-lat="" data-venue-lng="">
+
+        <div class="fixture__team-logos">
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x DC"></div>
+</div>
+            <div class="fixture__versus">v</div>
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x RR"></div>
+</div>
+        </div>
+
+        <div class="fixture__teams">
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo DC"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-DC DC"></div>
+    <p class="fixture__team-name">Delhi Capitals</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">DC</p>
+</div>
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo RR"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-RR RR"></div>
+    <p class="fixture__team-name">Rajasthan Royals</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">RR</p>
+</div>
+        </div>
+
+        <div class="fixture__info">
+            
+
+            <strong class="fixture__time">19:30 IST (14:00 GMT), 18:00 LOCAL</strong>
+            <span><span class="fixture__description">Match 30</span> Dubai International Cricket Stadium, Dubai</span>
+        </div>
+
+        <div class="fixture__weather fixture-weather">
+            <div class="fixture-weather__button fixture-weather__button--empty"></div>
+        </div>
+
+        <div class="fixture__links">
+            <ul class="inline-list fixture__btn-list">
+                    <li class="u-margin u-no-margin-phablet"><div class="fixture__button fixture__button--tickets btn btn--inactive is-inactive">Tickets</div></li>
+
+                <li class="u-margin u-no-margin-phablet">
+                    <a class="fixture__button fixture__button--mc btn" href="/match/2020/30">Match Centre</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+                                <h3 class="match-list__date js-date">Thursday, 15th October 2020</h3>
+
+    <div class="js-match match-list__item fixture  RCBKXIP" data-match-id="22266" data-timestamp="2020-10-15T18:00:00+0400" data-team-ids="9,4" data-venue-id="104" data-tournament-id="18790" data-venue-lat="" data-venue-lng="">
+
+        <div class="fixture__team-logos">
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x RCB"></div>
+</div>
+            <div class="fixture__versus">v</div>
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x KXIP"></div>
+</div>
+        </div>
+
+        <div class="fixture__teams">
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo RCB"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-RCB RCB"></div>
+    <p class="fixture__team-name">Royal Challengers Bangalore</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">RCB</p>
+</div>
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo KXIP"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-KXIP KXIP"></div>
+    <p class="fixture__team-name">Kings XI Punjab</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">KXIP</p>
+</div>
+        </div>
+
+        <div class="fixture__info">
+            
+
+            <strong class="fixture__time">19:30 IST (14:00 GMT), 18:00 LOCAL</strong>
+            <span><span class="fixture__description">Match 31</span> Sharjah Cricket Stadium, Sharjah</span>
+        </div>
+
+        <div class="fixture__weather fixture-weather">
+            <div class="fixture-weather__button fixture-weather__button--empty"></div>
+        </div>
+
+        <div class="fixture__links">
+            <ul class="inline-list fixture__btn-list">
+                    <li class="u-margin u-no-margin-phablet"><div class="fixture__button fixture__button--tickets btn btn--inactive is-inactive">Tickets</div></li>
+
+                <li class="u-margin u-no-margin-phablet">
+                    <a class="fixture__button fixture__button--mc btn" href="/match/2020/31">Match Centre</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+                                <h3 class="match-list__date js-date">Friday, 16th October 2020</h3>
+
+    <div class="js-match match-list__item fixture  MIKKR" data-match-id="22267" data-timestamp="2020-10-16T18:00:00+0400" data-team-ids="6,5" data-venue-id="102" data-tournament-id="18790" data-venue-lat="" data-venue-lng="">
+
+        <div class="fixture__team-logos">
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x MI"></div>
+</div>
+            <div class="fixture__versus">v</div>
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x KKR"></div>
+</div>
+        </div>
+
+        <div class="fixture__teams">
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo MI"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-MI MI"></div>
+    <p class="fixture__team-name">Mumbai Indians</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">MI</p>
+</div>
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo KKR"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-KKR KKR"></div>
+    <p class="fixture__team-name">Kolkata Knight Riders</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">KKR</p>
+</div>
+        </div>
+
+        <div class="fixture__info">
+            
+
+            <strong class="fixture__time">19:30 IST (14:00 GMT), 18:00 LOCAL</strong>
+            <span><span class="fixture__description">Match 32</span> Sheikh Zayed Stadium, Abu Dhabi</span>
+        </div>
+
+        <div class="fixture__weather fixture-weather">
+            <div class="fixture-weather__button fixture-weather__button--empty"></div>
+        </div>
+
+        <div class="fixture__links">
+            <ul class="inline-list fixture__btn-list">
+                    <li class="u-margin u-no-margin-phablet"><div class="fixture__button fixture__button--tickets btn btn--inactive is-inactive">Tickets</div></li>
+
+                <li class="u-margin u-no-margin-phablet">
+                    <a class="fixture__button fixture__button--mc btn" href="/match/2020/32">Match Centre</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+                                <h3 class="match-list__date js-date">Saturday, 17th October 2020</h3>
+
+    <div class="js-match match-list__item fixture  RRRCB" data-match-id="22268" data-timestamp="2020-10-17T14:00:00+0400" data-team-ids="8,9" data-venue-id="37" data-tournament-id="18790" data-venue-lat="" data-venue-lng="">
+
+        <div class="fixture__team-logos">
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x RR"></div>
+</div>
+            <div class="fixture__versus">v</div>
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x RCB"></div>
+</div>
+        </div>
+
+        <div class="fixture__teams">
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo RR"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-RR RR"></div>
+    <p class="fixture__team-name">Rajasthan Royals</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">RR</p>
+</div>
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo RCB"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-RCB RCB"></div>
+    <p class="fixture__team-name">Royal Challengers Bangalore</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">RCB</p>
+</div>
+        </div>
+
+        <div class="fixture__info">
+            
+
+            <strong class="fixture__time">15:30 IST (10:00 GMT), 14:00 LOCAL</strong>
+            <span><span class="fixture__description">Match 33</span> Dubai International Cricket Stadium, Dubai</span>
+        </div>
+
+        <div class="fixture__weather fixture-weather">
+            <div class="fixture-weather__button fixture-weather__button--empty"></div>
+        </div>
+
+        <div class="fixture__links">
+            <ul class="inline-list fixture__btn-list">
+                    <li class="u-margin u-no-margin-phablet"><div class="fixture__button fixture__button--tickets btn btn--inactive is-inactive">Tickets</div></li>
+
+                <li class="u-margin u-no-margin-phablet">
+                    <a class="fixture__button fixture__button--mc btn" href="/match/2020/33">Match Centre</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="js-match match-list__item fixture  DCCSK" data-match-id="22269" data-timestamp="2020-10-17T18:00:00+0400" data-team-ids="3,1" data-venue-id="104" data-tournament-id="18790" data-venue-lat="" data-venue-lng="">
+
+        <div class="fixture__team-logos">
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x DC"></div>
+</div>
+            <div class="fixture__versus">v</div>
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x CSK"></div>
+</div>
+        </div>
+
+        <div class="fixture__teams">
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo DC"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-DC DC"></div>
+    <p class="fixture__team-name">Delhi Capitals</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">DC</p>
+</div>
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo CSK"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-CSK CSK"></div>
+    <p class="fixture__team-name">Chennai Super Kings</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">CSK</p>
+</div>
+        </div>
+
+        <div class="fixture__info">
+            
+
+            <strong class="fixture__time">19:30 IST (14:00 GMT), 18:00 LOCAL</strong>
+            <span><span class="fixture__description">Match 34</span> Sharjah Cricket Stadium, Sharjah</span>
+        </div>
+
+        <div class="fixture__weather fixture-weather">
+            <div class="fixture-weather__button fixture-weather__button--empty"></div>
+        </div>
+
+        <div class="fixture__links">
+            <ul class="inline-list fixture__btn-list">
+                    <li class="u-margin u-no-margin-phablet"><div class="fixture__button fixture__button--tickets btn btn--inactive is-inactive">Tickets</div></li>
+
+                <li class="u-margin u-no-margin-phablet">
+                    <a class="fixture__button fixture__button--mc btn" href="/match/2020/34">Match Centre</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+                                <h3 class="match-list__date js-date">Sunday, 18th October 2020</h3>
+
+    <div class="js-match match-list__item fixture  SRHKKR" data-match-id="22270" data-timestamp="2020-10-18T14:00:00+0400" data-team-ids="62,5" data-venue-id="102" data-tournament-id="18790" data-venue-lat="" data-venue-lng="">
+
+        <div class="fixture__team-logos">
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x SRH"></div>
+</div>
+            <div class="fixture__versus">v</div>
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x KKR"></div>
+</div>
+        </div>
+
+        <div class="fixture__teams">
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo SRH"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-SRH SRH"></div>
+    <p class="fixture__team-name">Sunrisers Hyderabad</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">SRH</p>
+</div>
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo KKR"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-KKR KKR"></div>
+    <p class="fixture__team-name">Kolkata Knight Riders</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">KKR</p>
+</div>
+        </div>
+
+        <div class="fixture__info">
+            
+
+            <strong class="fixture__time">15:30 IST (10:00 GMT), 14:00 LOCAL</strong>
+            <span><span class="fixture__description">Match 35</span> Sheikh Zayed Stadium, Abu Dhabi</span>
+        </div>
+
+        <div class="fixture__weather fixture-weather">
+            <div class="fixture-weather__button fixture-weather__button--empty"></div>
+        </div>
+
+        <div class="fixture__links">
+            <ul class="inline-list fixture__btn-list">
+                    <li class="u-margin u-no-margin-phablet"><div class="fixture__button fixture__button--tickets btn btn--inactive is-inactive">Tickets</div></li>
+
+                <li class="u-margin u-no-margin-phablet">
+                    <a class="fixture__button fixture__button--mc btn" href="/match/2020/35">Match Centre</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="js-match match-list__item fixture  MIKXIP" data-match-id="22271" data-timestamp="2020-10-18T18:00:00+0400" data-team-ids="6,4" data-venue-id="37" data-tournament-id="18790" data-venue-lat="" data-venue-lng="">
+
+        <div class="fixture__team-logos">
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x MI"></div>
+</div>
+            <div class="fixture__versus">v</div>
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x KXIP"></div>
+</div>
+        </div>
+
+        <div class="fixture__teams">
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo MI"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-MI MI"></div>
+    <p class="fixture__team-name">Mumbai Indians</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">MI</p>
+</div>
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo KXIP"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-KXIP KXIP"></div>
+    <p class="fixture__team-name">Kings XI Punjab</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">KXIP</p>
+</div>
+        </div>
+
+        <div class="fixture__info">
+            
+
+            <strong class="fixture__time">19:30 IST (14:00 GMT), 18:00 LOCAL</strong>
+            <span><span class="fixture__description">Match 36</span> Dubai International Cricket Stadium, Dubai</span>
+        </div>
+
+        <div class="fixture__weather fixture-weather">
+            <div class="fixture-weather__button fixture-weather__button--empty"></div>
+        </div>
+
+        <div class="fixture__links">
+            <ul class="inline-list fixture__btn-list">
+                    <li class="u-margin u-no-margin-phablet"><div class="fixture__button fixture__button--tickets btn btn--inactive is-inactive">Tickets</div></li>
+
+                <li class="u-margin u-no-margin-phablet">
+                    <a class="fixture__button fixture__button--mc btn" href="/match/2020/36">Match Centre</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+                                <h3 class="match-list__date js-date">Monday, 19th October 2020</h3>
+
+    <div class="js-match match-list__item fixture  CSKRR" data-match-id="22272" data-timestamp="2020-10-19T18:00:00+0400" data-team-ids="1,8" data-venue-id="102" data-tournament-id="18790" data-venue-lat="" data-venue-lng="">
+
+        <div class="fixture__team-logos">
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x CSK"></div>
+</div>
+            <div class="fixture__versus">v</div>
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x RR"></div>
+</div>
+        </div>
+
+        <div class="fixture__teams">
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo CSK"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-CSK CSK"></div>
+    <p class="fixture__team-name">Chennai Super Kings</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">CSK</p>
+</div>
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo RR"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-RR RR"></div>
+    <p class="fixture__team-name">Rajasthan Royals</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">RR</p>
+</div>
+        </div>
+
+        <div class="fixture__info">
+            
+
+            <strong class="fixture__time">19:30 IST (14:00 GMT), 18:00 LOCAL</strong>
+            <span><span class="fixture__description">Match 37</span> Sheikh Zayed Stadium, Abu Dhabi</span>
+        </div>
+
+        <div class="fixture__weather fixture-weather">
+            <div class="fixture-weather__button fixture-weather__button--empty"></div>
+        </div>
+
+        <div class="fixture__links">
+            <ul class="inline-list fixture__btn-list">
+                    <li class="u-margin u-no-margin-phablet"><div class="fixture__button fixture__button--tickets btn btn--inactive is-inactive">Tickets</div></li>
+
+                <li class="u-margin u-no-margin-phablet">
+                    <a class="fixture__button fixture__button--mc btn" href="/match/2020/37">Match Centre</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+                                <h3 class="match-list__date js-date">Tuesday, 20th October 2020</h3>
+
+    <div class="js-match match-list__item fixture  KXIPDC" data-match-id="22273" data-timestamp="2020-10-20T18:00:00+0400" data-team-ids="4,3" data-venue-id="37" data-tournament-id="18790" data-venue-lat="" data-venue-lng="">
+
+        <div class="fixture__team-logos">
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x KXIP"></div>
+</div>
+            <div class="fixture__versus">v</div>
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x DC"></div>
+</div>
+        </div>
+
+        <div class="fixture__teams">
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo KXIP"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-KXIP KXIP"></div>
+    <p class="fixture__team-name">Kings XI Punjab</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">KXIP</p>
+</div>
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo DC"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-DC DC"></div>
+    <p class="fixture__team-name">Delhi Capitals</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">DC</p>
+</div>
+        </div>
+
+        <div class="fixture__info">
+            
+
+            <strong class="fixture__time">19:30 IST (14:00 GMT), 18:00 LOCAL</strong>
+            <span><span class="fixture__description">Match 38</span> Dubai International Cricket Stadium, Dubai</span>
+        </div>
+
+        <div class="fixture__weather fixture-weather">
+            <div class="fixture-weather__button fixture-weather__button--empty"></div>
+        </div>
+
+        <div class="fixture__links">
+            <ul class="inline-list fixture__btn-list">
+                    <li class="u-margin u-no-margin-phablet"><div class="fixture__button fixture__button--tickets btn btn--inactive is-inactive">Tickets</div></li>
+
+                <li class="u-margin u-no-margin-phablet">
+                    <a class="fixture__button fixture__button--mc btn" href="/match/2020/38">Match Centre</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+                                <h3 class="match-list__date js-date">Wednesday, 21st October 2020</h3>
+
+    <div class="js-match match-list__item fixture  KKRRCB" data-match-id="22274" data-timestamp="2020-10-21T18:00:00+0400" data-team-ids="5,9" data-venue-id="102" data-tournament-id="18790" data-venue-lat="" data-venue-lng="">
+
+        <div class="fixture__team-logos">
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x KKR"></div>
+</div>
+            <div class="fixture__versus">v</div>
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x RCB"></div>
+</div>
+        </div>
+
+        <div class="fixture__teams">
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo KKR"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-KKR KKR"></div>
+    <p class="fixture__team-name">Kolkata Knight Riders</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">KKR</p>
+</div>
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo RCB"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-RCB RCB"></div>
+    <p class="fixture__team-name">Royal Challengers Bangalore</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">RCB</p>
+</div>
+        </div>
+
+        <div class="fixture__info">
+            
+
+            <strong class="fixture__time">19:30 IST (14:00 GMT), 18:00 LOCAL</strong>
+            <span><span class="fixture__description">Match 39</span> Sheikh Zayed Stadium, Abu Dhabi</span>
+        </div>
+
+        <div class="fixture__weather fixture-weather">
+            <div class="fixture-weather__button fixture-weather__button--empty"></div>
+        </div>
+
+        <div class="fixture__links">
+            <ul class="inline-list fixture__btn-list">
+                    <li class="u-margin u-no-margin-phablet"><div class="fixture__button fixture__button--tickets btn btn--inactive is-inactive">Tickets</div></li>
+
+                <li class="u-margin u-no-margin-phablet">
+                    <a class="fixture__button fixture__button--mc btn" href="/match/2020/39">Match Centre</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+                                <h3 class="match-list__date js-date">Thursday, 22nd October 2020</h3>
+
+    <div class="js-match match-list__item fixture  RRSRH" data-match-id="22275" data-timestamp="2020-10-22T18:00:00+0400" data-team-ids="8,62" data-venue-id="37" data-tournament-id="18790" data-venue-lat="" data-venue-lng="">
+
+        <div class="fixture__team-logos">
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x RR"></div>
+</div>
+            <div class="fixture__versus">v</div>
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x SRH"></div>
+</div>
+        </div>
+
+        <div class="fixture__teams">
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo RR"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-RR RR"></div>
+    <p class="fixture__team-name">Rajasthan Royals</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">RR</p>
+</div>
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo SRH"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-SRH SRH"></div>
+    <p class="fixture__team-name">Sunrisers Hyderabad</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">SRH</p>
+</div>
+        </div>
+
+        <div class="fixture__info">
+            
+
+            <strong class="fixture__time">19:30 IST (14:00 GMT), 18:00 LOCAL</strong>
+            <span><span class="fixture__description">Match 40</span> Dubai International Cricket Stadium, Dubai</span>
+        </div>
+
+        <div class="fixture__weather fixture-weather">
+            <div class="fixture-weather__button fixture-weather__button--empty"></div>
+        </div>
+
+        <div class="fixture__links">
+            <ul class="inline-list fixture__btn-list">
+                    <li class="u-margin u-no-margin-phablet"><div class="fixture__button fixture__button--tickets btn btn--inactive is-inactive">Tickets</div></li>
+
+                <li class="u-margin u-no-margin-phablet">
+                    <a class="fixture__button fixture__button--mc btn" href="/match/2020/40">Match Centre</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+                                <h3 class="match-list__date js-date">Friday, 23rd October 2020</h3>
+
+    <div class="js-match match-list__item fixture  CSKMI" data-match-id="22276" data-timestamp="2020-10-23T18:00:00+0400" data-team-ids="1,6" data-venue-id="104" data-tournament-id="18790" data-venue-lat="" data-venue-lng="">
+
+        <div class="fixture__team-logos">
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x CSK"></div>
+</div>
+            <div class="fixture__versus">v</div>
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x MI"></div>
+</div>
+        </div>
+
+        <div class="fixture__teams">
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo CSK"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-CSK CSK"></div>
+    <p class="fixture__team-name">Chennai Super Kings</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">CSK</p>
+</div>
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo MI"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-MI MI"></div>
+    <p class="fixture__team-name">Mumbai Indians</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">MI</p>
+</div>
+        </div>
+
+        <div class="fixture__info">
+            
+
+            <strong class="fixture__time">19:30 IST (14:00 GMT), 18:00 LOCAL</strong>
+            <span><span class="fixture__description">Match 41</span> Sharjah Cricket Stadium, Sharjah</span>
+        </div>
+
+        <div class="fixture__weather fixture-weather">
+            <div class="fixture-weather__button fixture-weather__button--empty"></div>
+        </div>
+
+        <div class="fixture__links">
+            <ul class="inline-list fixture__btn-list">
+                    <li class="u-margin u-no-margin-phablet"><div class="fixture__button fixture__button--tickets btn btn--inactive is-inactive">Tickets</div></li>
+
+                <li class="u-margin u-no-margin-phablet">
+                    <a class="fixture__button fixture__button--mc btn" href="/match/2020/41">Match Centre</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+                                <h3 class="match-list__date js-date">Saturday, 24th October 2020</h3>
+
+    <div class="js-match match-list__item fixture  KKRDC" data-match-id="22277" data-timestamp="2020-10-24T14:00:00+0400" data-team-ids="5,3" data-venue-id="102" data-tournament-id="18790" data-venue-lat="" data-venue-lng="">
+
+        <div class="fixture__team-logos">
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x KKR"></div>
+</div>
+            <div class="fixture__versus">v</div>
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x DC"></div>
+</div>
+        </div>
+
+        <div class="fixture__teams">
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo KKR"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-KKR KKR"></div>
+    <p class="fixture__team-name">Kolkata Knight Riders</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">KKR</p>
+</div>
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo DC"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-DC DC"></div>
+    <p class="fixture__team-name">Delhi Capitals</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">DC</p>
+</div>
+        </div>
+
+        <div class="fixture__info">
+            
+
+            <strong class="fixture__time">15:30 IST (10:00 GMT), 14:00 LOCAL</strong>
+            <span><span class="fixture__description">Match 42</span> Sheikh Zayed Stadium, Abu Dhabi</span>
+        </div>
+
+        <div class="fixture__weather fixture-weather">
+            <div class="fixture-weather__button fixture-weather__button--empty"></div>
+        </div>
+
+        <div class="fixture__links">
+            <ul class="inline-list fixture__btn-list">
+                    <li class="u-margin u-no-margin-phablet"><div class="fixture__button fixture__button--tickets btn btn--inactive is-inactive">Tickets</div></li>
+
+                <li class="u-margin u-no-margin-phablet">
+                    <a class="fixture__button fixture__button--mc btn" href="/match/2020/42">Match Centre</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="js-match match-list__item fixture  KXIPSRH" data-match-id="22278" data-timestamp="2020-10-24T18:00:00+0400" data-team-ids="4,62" data-venue-id="37" data-tournament-id="18790" data-venue-lat="" data-venue-lng="">
+
+        <div class="fixture__team-logos">
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x KXIP"></div>
+</div>
+            <div class="fixture__versus">v</div>
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x SRH"></div>
+</div>
+        </div>
+
+        <div class="fixture__teams">
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo KXIP"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-KXIP KXIP"></div>
+    <p class="fixture__team-name">Kings XI Punjab</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">KXIP</p>
+</div>
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo SRH"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-SRH SRH"></div>
+    <p class="fixture__team-name">Sunrisers Hyderabad</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">SRH</p>
+</div>
+        </div>
+
+        <div class="fixture__info">
+            
+
+            <strong class="fixture__time">19:30 IST (14:00 GMT), 18:00 LOCAL</strong>
+            <span><span class="fixture__description">Match 43</span> Dubai International Cricket Stadium, Dubai</span>
+        </div>
+
+        <div class="fixture__weather fixture-weather">
+            <div class="fixture-weather__button fixture-weather__button--empty"></div>
+        </div>
+
+        <div class="fixture__links">
+            <ul class="inline-list fixture__btn-list">
+                    <li class="u-margin u-no-margin-phablet"><div class="fixture__button fixture__button--tickets btn btn--inactive is-inactive">Tickets</div></li>
+
+                <li class="u-margin u-no-margin-phablet">
+                    <a class="fixture__button fixture__button--mc btn" href="/match/2020/43">Match Centre</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+                                <h3 class="match-list__date js-date">Sunday, 25th October 2020</h3>
+
+    <div class="js-match match-list__item fixture  RCBCSK" data-match-id="22279" data-timestamp="2020-10-25T14:00:00+0400" data-team-ids="9,1" data-venue-id="37" data-tournament-id="18790" data-venue-lat="" data-venue-lng="">
+
+        <div class="fixture__team-logos">
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x RCB"></div>
+</div>
+            <div class="fixture__versus">v</div>
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x CSK"></div>
+</div>
+        </div>
+
+        <div class="fixture__teams">
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo RCB"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-RCB RCB"></div>
+    <p class="fixture__team-name">Royal Challengers Bangalore</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">RCB</p>
+</div>
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo CSK"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-CSK CSK"></div>
+    <p class="fixture__team-name">Chennai Super Kings</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">CSK</p>
+</div>
+        </div>
+
+        <div class="fixture__info">
+            
+
+            <strong class="fixture__time">15:30 IST (10:00 GMT), 14:00 LOCAL</strong>
+            <span><span class="fixture__description">Match 44</span> Dubai International Cricket Stadium, Dubai</span>
+        </div>
+
+        <div class="fixture__weather fixture-weather">
+            <div class="fixture-weather__button fixture-weather__button--empty"></div>
+        </div>
+
+        <div class="fixture__links">
+            <ul class="inline-list fixture__btn-list">
+                    <li class="u-margin u-no-margin-phablet"><div class="fixture__button fixture__button--tickets btn btn--inactive is-inactive">Tickets</div></li>
+
+                <li class="u-margin u-no-margin-phablet">
+                    <a class="fixture__button fixture__button--mc btn" href="/match/2020/44">Match Centre</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="js-match match-list__item fixture  RRMI" data-match-id="22280" data-timestamp="2020-10-25T18:00:00+0400" data-team-ids="8,6" data-venue-id="102" data-tournament-id="18790" data-venue-lat="" data-venue-lng="">
+
+        <div class="fixture__team-logos">
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x RR"></div>
+</div>
+            <div class="fixture__versus">v</div>
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x MI"></div>
+</div>
+        </div>
+
+        <div class="fixture__teams">
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo RR"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-RR RR"></div>
+    <p class="fixture__team-name">Rajasthan Royals</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">RR</p>
+</div>
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo MI"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-MI MI"></div>
+    <p class="fixture__team-name">Mumbai Indians</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">MI</p>
+</div>
+        </div>
+
+        <div class="fixture__info">
+            
+
+            <strong class="fixture__time">19:30 IST (14:00 GMT), 18:00 LOCAL</strong>
+            <span><span class="fixture__description">Match 45</span> Sheikh Zayed Stadium, Abu Dhabi</span>
+        </div>
+
+        <div class="fixture__weather fixture-weather">
+            <div class="fixture-weather__button fixture-weather__button--empty"></div>
+        </div>
+
+        <div class="fixture__links">
+            <ul class="inline-list fixture__btn-list">
+                    <li class="u-margin u-no-margin-phablet"><div class="fixture__button fixture__button--tickets btn btn--inactive is-inactive">Tickets</div></li>
+
+                <li class="u-margin u-no-margin-phablet">
+                    <a class="fixture__button fixture__button--mc btn" href="/match/2020/45">Match Centre</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+                                <h3 class="match-list__date js-date">Monday, 26th October 2020</h3>
+
+    <div class="js-match match-list__item fixture  KKRKXIP" data-match-id="22281" data-timestamp="2020-10-26T18:00:00+0400" data-team-ids="5,4" data-venue-id="104" data-tournament-id="18790" data-venue-lat="" data-venue-lng="">
+
+        <div class="fixture__team-logos">
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x KKR"></div>
+</div>
+            <div class="fixture__versus">v</div>
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x KXIP"></div>
+</div>
+        </div>
+
+        <div class="fixture__teams">
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo KKR"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-KKR KKR"></div>
+    <p class="fixture__team-name">Kolkata Knight Riders</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">KKR</p>
+</div>
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo KXIP"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-KXIP KXIP"></div>
+    <p class="fixture__team-name">Kings XI Punjab</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">KXIP</p>
+</div>
+        </div>
+
+        <div class="fixture__info">
+            
+
+            <strong class="fixture__time">19:30 IST (14:00 GMT), 18:00 LOCAL</strong>
+            <span><span class="fixture__description">Match 46</span> Sharjah Cricket Stadium, Sharjah</span>
+        </div>
+
+        <div class="fixture__weather fixture-weather">
+            <div class="fixture-weather__button fixture-weather__button--empty"></div>
+        </div>
+
+        <div class="fixture__links">
+            <ul class="inline-list fixture__btn-list">
+                    <li class="u-margin u-no-margin-phablet"><div class="fixture__button fixture__button--tickets btn btn--inactive is-inactive">Tickets</div></li>
+
+                <li class="u-margin u-no-margin-phablet">
+                    <a class="fixture__button fixture__button--mc btn" href="/match/2020/46">Match Centre</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+                                <h3 class="match-list__date js-date">Tuesday, 27th October 2020</h3>
+
+    <div class="js-match match-list__item fixture  SRHDC" data-match-id="22282" data-timestamp="2020-10-27T18:00:00+0400" data-team-ids="62,3" data-venue-id="37" data-tournament-id="18790" data-venue-lat="" data-venue-lng="">
+
+        <div class="fixture__team-logos">
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x SRH"></div>
+</div>
+            <div class="fixture__versus">v</div>
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x DC"></div>
+</div>
+        </div>
+
+        <div class="fixture__teams">
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo SRH"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-SRH SRH"></div>
+    <p class="fixture__team-name">Sunrisers Hyderabad</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">SRH</p>
+</div>
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo DC"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-DC DC"></div>
+    <p class="fixture__team-name">Delhi Capitals</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">DC</p>
+</div>
+        </div>
+
+        <div class="fixture__info">
+            
+
+            <strong class="fixture__time">19:30 IST (14:00 GMT), 18:00 LOCAL</strong>
+            <span><span class="fixture__description">Match 47</span> Dubai International Cricket Stadium, Dubai</span>
+        </div>
+
+        <div class="fixture__weather fixture-weather">
+            <div class="fixture-weather__button fixture-weather__button--empty"></div>
+        </div>
+
+        <div class="fixture__links">
+            <ul class="inline-list fixture__btn-list">
+                    <li class="u-margin u-no-margin-phablet"><div class="fixture__button fixture__button--tickets btn btn--inactive is-inactive">Tickets</div></li>
+
+                <li class="u-margin u-no-margin-phablet">
+                    <a class="fixture__button fixture__button--mc btn" href="/match/2020/47">Match Centre</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+                                <h3 class="match-list__date js-date">Wednesday, 28th October 2020</h3>
+
+    <div class="js-match match-list__item fixture  MIRCB" data-match-id="22283" data-timestamp="2020-10-28T18:00:00+0400" data-team-ids="6,9" data-venue-id="102" data-tournament-id="18790" data-venue-lat="" data-venue-lng="">
+
+        <div class="fixture__team-logos">
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x MI"></div>
+</div>
+            <div class="fixture__versus">v</div>
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x RCB"></div>
+</div>
+        </div>
+
+        <div class="fixture__teams">
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo MI"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-MI MI"></div>
+    <p class="fixture__team-name">Mumbai Indians</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">MI</p>
+</div>
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo RCB"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-RCB RCB"></div>
+    <p class="fixture__team-name">Royal Challengers Bangalore</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">RCB</p>
+</div>
+        </div>
+
+        <div class="fixture__info">
+            
+
+            <strong class="fixture__time">19:30 IST (14:00 GMT), 18:00 LOCAL</strong>
+            <span><span class="fixture__description">Match 48</span> Sheikh Zayed Stadium, Abu Dhabi</span>
+        </div>
+
+        <div class="fixture__weather fixture-weather">
+            <div class="fixture-weather__button fixture-weather__button--empty"></div>
+        </div>
+
+        <div class="fixture__links">
+            <ul class="inline-list fixture__btn-list">
+                    <li class="u-margin u-no-margin-phablet"><div class="fixture__button fixture__button--tickets btn btn--inactive is-inactive">Tickets</div></li>
+
+                <li class="u-margin u-no-margin-phablet">
+                    <a class="fixture__button fixture__button--mc btn" href="/match/2020/48">Match Centre</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+                                <h3 class="match-list__date js-date">Thursday, 29th October 2020</h3>
+
+    <div class="js-match match-list__item fixture  CSKKKR" data-match-id="22284" data-timestamp="2020-10-29T18:00:00+0400" data-team-ids="1,5" data-venue-id="37" data-tournament-id="18790" data-venue-lat="" data-venue-lng="">
+
+        <div class="fixture__team-logos">
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x CSK"></div>
+</div>
+            <div class="fixture__versus">v</div>
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x KKR"></div>
+</div>
+        </div>
+
+        <div class="fixture__teams">
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo CSK"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-CSK CSK"></div>
+    <p class="fixture__team-name">Chennai Super Kings</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">CSK</p>
+</div>
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo KKR"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-KKR KKR"></div>
+    <p class="fixture__team-name">Kolkata Knight Riders</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">KKR</p>
+</div>
+        </div>
+
+        <div class="fixture__info">
+            
+
+            <strong class="fixture__time">19:30 IST (14:00 GMT), 18:00 LOCAL</strong>
+            <span><span class="fixture__description">Match 49</span> Dubai International Cricket Stadium, Dubai</span>
+        </div>
+
+        <div class="fixture__weather fixture-weather">
+            <div class="fixture-weather__button fixture-weather__button--empty"></div>
+        </div>
+
+        <div class="fixture__links">
+            <ul class="inline-list fixture__btn-list">
+                    <li class="u-margin u-no-margin-phablet"><div class="fixture__button fixture__button--tickets btn btn--inactive is-inactive">Tickets</div></li>
+
+                <li class="u-margin u-no-margin-phablet">
+                    <a class="fixture__button fixture__button--mc btn" href="/match/2020/49">Match Centre</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+                                <h3 class="match-list__date js-date">Friday, 30th October 2020</h3>
+
+    <div class="js-match match-list__item fixture  KXIPRR" data-match-id="22285" data-timestamp="2020-10-30T18:00:00+0400" data-team-ids="4,8" data-venue-id="102" data-tournament-id="18790" data-venue-lat="" data-venue-lng="">
+
+        <div class="fixture__team-logos">
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x KXIP"></div>
+</div>
+            <div class="fixture__versus">v</div>
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x RR"></div>
+</div>
+        </div>
+
+        <div class="fixture__teams">
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo KXIP"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-KXIP KXIP"></div>
+    <p class="fixture__team-name">Kings XI Punjab</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">KXIP</p>
+</div>
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo RR"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-RR RR"></div>
+    <p class="fixture__team-name">Rajasthan Royals</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">RR</p>
+</div>
+        </div>
+
+        <div class="fixture__info">
+            
+
+            <strong class="fixture__time">19:30 IST (14:00 GMT), 18:00 LOCAL</strong>
+            <span><span class="fixture__description">Match 50</span> Sheikh Zayed Stadium, Abu Dhabi</span>
+        </div>
+
+        <div class="fixture__weather fixture-weather">
+            <div class="fixture-weather__button fixture-weather__button--empty"></div>
+        </div>
+
+        <div class="fixture__links">
+            <ul class="inline-list fixture__btn-list">
+                    <li class="u-margin u-no-margin-phablet"><div class="fixture__button fixture__button--tickets btn btn--inactive is-inactive">Tickets</div></li>
+
+                <li class="u-margin u-no-margin-phablet">
+                    <a class="fixture__button fixture__button--mc btn" href="/match/2020/50">Match Centre</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+                                <h3 class="match-list__date js-date">Saturday, 31st October 2020</h3>
+
+    <div class="js-match match-list__item fixture  DCMI" data-match-id="22286" data-timestamp="2020-10-31T14:00:00+0400" data-team-ids="3,6" data-venue-id="37" data-tournament-id="18790" data-venue-lat="" data-venue-lng="">
+
+        <div class="fixture__team-logos">
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x DC"></div>
+</div>
+            <div class="fixture__versus">v</div>
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x MI"></div>
+</div>
+        </div>
+
+        <div class="fixture__teams">
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo DC"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-DC DC"></div>
+    <p class="fixture__team-name">Delhi Capitals</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">DC</p>
+</div>
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo MI"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-MI MI"></div>
+    <p class="fixture__team-name">Mumbai Indians</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">MI</p>
+</div>
+        </div>
+
+        <div class="fixture__info">
+            
+
+            <strong class="fixture__time">15:30 IST (10:00 GMT), 14:00 LOCAL</strong>
+            <span><span class="fixture__description">Match 51</span> Dubai International Cricket Stadium, Dubai</span>
+        </div>
+
+        <div class="fixture__weather fixture-weather">
+            <div class="fixture-weather__button fixture-weather__button--empty"></div>
+        </div>
+
+        <div class="fixture__links">
+            <ul class="inline-list fixture__btn-list">
+                    <li class="u-margin u-no-margin-phablet"><div class="fixture__button fixture__button--tickets btn btn--inactive is-inactive">Tickets</div></li>
+
+                <li class="u-margin u-no-margin-phablet">
+                    <a class="fixture__button fixture__button--mc btn" href="/match/2020/51">Match Centre</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="js-match match-list__item fixture  RCBSRH" data-match-id="22287" data-timestamp="2020-10-31T18:00:00+0400" data-team-ids="9,62" data-venue-id="104" data-tournament-id="18790" data-venue-lat="" data-venue-lng="">
+
+        <div class="fixture__team-logos">
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x RCB"></div>
+</div>
+            <div class="fixture__versus">v</div>
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x SRH"></div>
+</div>
+        </div>
+
+        <div class="fixture__teams">
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo RCB"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-RCB RCB"></div>
+    <p class="fixture__team-name">Royal Challengers Bangalore</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">RCB</p>
+</div>
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo SRH"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-SRH SRH"></div>
+    <p class="fixture__team-name">Sunrisers Hyderabad</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">SRH</p>
+</div>
+        </div>
+
+        <div class="fixture__info">
+            
+
+            <strong class="fixture__time">19:30 IST (14:00 GMT), 18:00 LOCAL</strong>
+            <span><span class="fixture__description">Match 52</span> Sharjah Cricket Stadium, Sharjah</span>
+        </div>
+
+        <div class="fixture__weather fixture-weather">
+            <div class="fixture-weather__button fixture-weather__button--empty"></div>
+        </div>
+
+        <div class="fixture__links">
+            <ul class="inline-list fixture__btn-list">
+                    <li class="u-margin u-no-margin-phablet"><div class="fixture__button fixture__button--tickets btn btn--inactive is-inactive">Tickets</div></li>
+
+                <li class="u-margin u-no-margin-phablet">
+                    <a class="fixture__button fixture__button--mc btn" href="/match/2020/52">Match Centre</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+                                <h3 class="match-list__date js-date">Sunday, 1st November 2020</h3>
+
+    <div class="js-match match-list__item fixture  CSKKXIP" data-match-id="22288" data-timestamp="2020-11-01T14:00:00+0400" data-team-ids="1,4" data-venue-id="102" data-tournament-id="18790" data-venue-lat="" data-venue-lng="">
+
+        <div class="fixture__team-logos">
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x CSK"></div>
+</div>
+            <div class="fixture__versus">v</div>
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x KXIP"></div>
+</div>
+        </div>
+
+        <div class="fixture__teams">
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo CSK"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-CSK CSK"></div>
+    <p class="fixture__team-name">Chennai Super Kings</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">CSK</p>
+</div>
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo KXIP"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-KXIP KXIP"></div>
+    <p class="fixture__team-name">Kings XI Punjab</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">KXIP</p>
+</div>
+        </div>
+
+        <div class="fixture__info">
+            
+
+            <strong class="fixture__time">15:30 IST (10:00 GMT), 14:00 LOCAL</strong>
+            <span><span class="fixture__description">Match 53</span> Sheikh Zayed Stadium, Abu Dhabi</span>
+        </div>
+
+        <div class="fixture__weather fixture-weather">
+            <div class="fixture-weather__button fixture-weather__button--empty"></div>
+        </div>
+
+        <div class="fixture__links">
+            <ul class="inline-list fixture__btn-list">
+                    <li class="u-margin u-no-margin-phablet"><div class="fixture__button fixture__button--tickets btn btn--inactive is-inactive">Tickets</div></li>
+
+                <li class="u-margin u-no-margin-phablet">
+                    <a class="fixture__button fixture__button--mc btn" href="/match/2020/53">Match Centre</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="js-match match-list__item fixture  KKRRR" data-match-id="22289" data-timestamp="2020-11-01T18:00:00+0400" data-team-ids="5,8" data-venue-id="37" data-tournament-id="18790" data-venue-lat="" data-venue-lng="">
+
+        <div class="fixture__team-logos">
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x KKR"></div>
+</div>
+            <div class="fixture__versus">v</div>
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x RR"></div>
+</div>
+        </div>
+
+        <div class="fixture__teams">
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo KKR"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-KKR KKR"></div>
+    <p class="fixture__team-name">Kolkata Knight Riders</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">KKR</p>
+</div>
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo RR"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-RR RR"></div>
+    <p class="fixture__team-name">Rajasthan Royals</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">RR</p>
+</div>
+        </div>
+
+        <div class="fixture__info">
+            
+
+            <strong class="fixture__time">19:30 IST (14:00 GMT), 18:00 LOCAL</strong>
+            <span><span class="fixture__description">Match 54</span> Dubai International Cricket Stadium, Dubai</span>
+        </div>
+
+        <div class="fixture__weather fixture-weather">
+            <div class="fixture-weather__button fixture-weather__button--empty"></div>
+        </div>
+
+        <div class="fixture__links">
+            <ul class="inline-list fixture__btn-list">
+                    <li class="u-margin u-no-margin-phablet"><div class="fixture__button fixture__button--tickets btn btn--inactive is-inactive">Tickets</div></li>
+
+                <li class="u-margin u-no-margin-phablet">
+                    <a class="fixture__button fixture__button--mc btn" href="/match/2020/54">Match Centre</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+                                <h3 class="match-list__date js-date">Monday, 2nd November 2020</h3>
+
+    <div class="js-match match-list__item fixture  DCRCB" data-match-id="22290" data-timestamp="2020-11-02T18:00:00+0400" data-team-ids="3,9" data-venue-id="102" data-tournament-id="18790" data-venue-lat="" data-venue-lng="">
+
+        <div class="fixture__team-logos">
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x DC"></div>
+</div>
+            <div class="fixture__versus">v</div>
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x RCB"></div>
+</div>
+        </div>
+
+        <div class="fixture__teams">
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo DC"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-DC DC"></div>
+    <p class="fixture__team-name">Delhi Capitals</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">DC</p>
+</div>
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo RCB"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-RCB RCB"></div>
+    <p class="fixture__team-name">Royal Challengers Bangalore</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">RCB</p>
+</div>
+        </div>
+
+        <div class="fixture__info">
+            
+
+            <strong class="fixture__time">19:30 IST (14:00 GMT), 18:00 LOCAL</strong>
+            <span><span class="fixture__description">Match 55</span> Sheikh Zayed Stadium, Abu Dhabi</span>
+        </div>
+
+        <div class="fixture__weather fixture-weather">
+            <div class="fixture-weather__button fixture-weather__button--empty"></div>
+        </div>
+
+        <div class="fixture__links">
+            <ul class="inline-list fixture__btn-list">
+                    <li class="u-margin u-no-margin-phablet"><div class="fixture__button fixture__button--tickets btn btn--inactive is-inactive">Tickets</div></li>
+
+                <li class="u-margin u-no-margin-phablet">
+                    <a class="fixture__button fixture__button--mc btn" href="/match/2020/55">Match Centre</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+                                <h3 class="match-list__date js-date">Tuesday, 3rd November 2020</h3>
+
+    <div class="js-match match-list__item fixture  SRHMI" data-match-id="22291" data-timestamp="2020-11-03T18:00:00+0400" data-team-ids="62,6" data-venue-id="104" data-tournament-id="18790" data-venue-lat="" data-venue-lng="">
+
+        <div class="fixture__team-logos">
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x SRH"></div>
+</div>
+            <div class="fixture__versus">v</div>
+            <div class="fixture__team-logo">    <div class="u-hide-tablet fixture__logo tLogo58x MI"></div>
+</div>
+        </div>
+
+        <div class="fixture__teams">
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo SRH"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-SRH SRH"></div>
+    <p class="fixture__team-name">Sunrisers Hyderabad</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">SRH</p>
+</div>
+            <div class="fixture__team">    <i class="tLogo40x32 u-show-phablet fixture__logo MI"></i>
+    <div class="u-show-tablet u-hide-phablet fixture__logo tLogo40x t-MI MI"></div>
+    <p class="fixture__team-name">Mumbai Indians</p>
+    <p class="fixture__team-name fixture__team-name--abbrv">MI</p>
+</div>
+        </div>
+
+        <div class="fixture__info">
+            
+
+            <strong class="fixture__time">19:30 IST (14:00 GMT), 18:00 LOCAL</strong>
+            <span><span class="fixture__description">Match 56</span> Sharjah Cricket Stadium, Sharjah</span>
+        </div>
+
+        <div class="fixture__weather fixture-weather">
+            <div class="fixture-weather__button fixture-weather__button--empty"></div>
+        </div>
+
+        <div class="fixture__links">
+            <ul class="inline-list fixture__btn-list">
+                    <li class="u-margin u-no-margin-phablet"><div class="fixture__button fixture__button--tickets btn btn--inactive is-inactive">Tickets</div></li>
+
+                <li class="u-margin u-no-margin-phablet">
+                    <a class="fixture__button fixture__button--mc btn" href="/match/2020/56">Match Centre</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+                </div>

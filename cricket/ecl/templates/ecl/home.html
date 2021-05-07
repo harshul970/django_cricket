@@ -1,0 +1,84 @@
+{% extends 'ecl/base.html' %}
+{% block body %}
+{% load static %}
+<div class="container">
+    <br>
+    <div class="jumbotron jumbotron-fluid">
+        <div class="container" align="center">
+            <p>Welcome to your Home Page</p>
+        </div>
+        <!--
+        <div class="container" align="center">
+            <img src="{% static 'ecl/images/ball_path2.gif' %}" alt="logo.png" style="width:200px;" title="Howzaattt!!">
+        </div>
+        -->
+        <hr/>
+        <h3 align="center">My Performance</h3>
+        <br>
+        {% if performance_data %}
+        {% for row in performance_data%}
+        <div class="row">
+            <div class="col-sm-1" ></div>
+            <div class="col-sm-4" ><b>League Name</b></div> <div class="col-sm-2"><b>Total Matches</b></div>
+            <div class="col-sm-2" ><b>Total Matches Won</b></div> <div class="col-sm-2"><b>Total Matches Lost</b></div>
+            <div class="col-sm-1" ></div>
+            <div class="col-sm-1" ></div>
+            <div class="col-sm-4" >{{row.league_name}}</div> <div class="col-sm-2" >{{row.total_games}}</div>
+            <div class="col-sm-2" >{{row.won_games}}</div> <div class="col-sm-2" >{{row.lost_games}}</div>
+            <div class="col-sm-1" ></div>
+        </div>
+        <div class="row">
+            <div class="col-sm-1" ></div>
+            <div class="col-sm-4" >
+                <button type="button" class="btn btn-outline-primary" data-toggle="modal" data-target="{{row.modal_id}}">
+                See League's Performance
+                </button>
+            </div>
+
+        </div>
+        <br>
+        {% endfor %}
+        {% else %}
+        <div class="container" align="center">
+            <p>You are not part of any active league. Please select 'Join League' option from the top and join a league by passing league code.</p>
+        </div>
+        {% endif %}
+    </div>
+
+    {% if all_players_performance %}
+    {% for ind in all_players_performance%}
+    <div class="modal" id = "{{ind.modal_id}}">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">League's performance</h4>
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>
+                <div class="modal-body">
+                    <table class="table table-bordered">
+                        <thead>
+                        <tr>
+                            <th>Player Name</th><th>No. of games won</th><th>No. of games lost</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        {% for rec in ind.data%}
+                        <tr>
+                            <td>{{rec.0}}</td><td>{{rec.1}}</td><td>{{rec.2}}</td>
+                        </tr>
+                        {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" data-dismiss="modal">
+                        Close
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+    {% endif %}
+</div>
+{% endblock %}

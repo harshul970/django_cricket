@@ -1,0 +1,58 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Your Profile</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</head>
+<body background="{% static 'ecl/images/web_background1.png' %}">
+<div class="container">
+    <br>
+    <nav class="navbar navbar-expand-sm bg-primary navbar-light">
+        <ul class="navbar-nav">
+            <li class ="nav-item">
+                <a class="navbar-brand" href="{%url 'home' %}">
+                    <img src="{% static 'ecl/images/cric_logo_1.png' %}" alt="logo.png" style="width:40px;"
+                         title="Home"> ECL
+                </a>
+            </li>
+            <li class ="nav-item">
+                <a class="nav-link">
+                    <i>Welcome, {{ user.get_short_name }}</i>
+                </a>
+            </li>
+            <li class ="nav-item">
+                <a class="nav-link" href="{%url 'join_match' %}">
+                    Join League
+                </a>
+            </li>
+            <li class ="nav-item">
+                <a class="nav-link" href="{%url 'my_all_matches' %}">
+                    My Matches
+                </a>
+            </li>
+            <li class ="nav-item">
+                <a class="nav-link" href="{%url 'my_profile_view' %}">
+                    My Profile
+                </a>
+            </li>
+            <li class ="nav-item">
+                <a class="nav-link" href="{%url 'logout' %}">
+                    Logout
+                </a>
+            </li>
+        </ul>
+    </nav>
+</div>
+<!--Block code for rest of the Body-->
+{% block body %}
+{% endblock %}
+<!--Block code for rest of the Body-->
+</body>
+</html>
